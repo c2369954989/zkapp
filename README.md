@@ -1,6 +1,6 @@
 # Mina zkApp: Zkapp
 
-This template uses TypeScript.
+my first zkapp, try to practis
 
 ## How to build
 
